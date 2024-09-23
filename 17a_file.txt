@@ -1,0 +1,4 @@
+Hello Python
+I'm your study buddy, Astitv!
+You know, how cool is that...
+I'm learning Python programming.
