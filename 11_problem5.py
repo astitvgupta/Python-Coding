@@ -38,3 +38,5 @@ print(lang)
 s = {8, 7, 12, "Harry", [1,2]}
 # No, you cannot include a list inside a set in Python because lists are mutable (they can be changed), and sets require all their elements to be hashable and immutable. Elements in a set must be immutable to maintain the unique, unordered nature of sets.
 # This will raise a TypeError: unhashable type: 'list' because a list ([1, 2]) is mutable and cannot be hashed, and thus cannot be added to the set.
+
+

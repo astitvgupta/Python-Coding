@@ -6,7 +6,8 @@ name = "astitv"
 print(len(name));
 print(name[4]);
 # Start from index 1 all the way to 4 (excluding 4)
-print(name[1: 4]);
+print(name[1 : 4])
+print(name[4 : 1 : -1]);
 
 # print(name[-4:-1]) # Similar as [len(name)-4 : len(name)-1]
 print(name[2: 5])

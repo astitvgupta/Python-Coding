@@ -8,6 +8,7 @@ print(items[1:5])
 l1 = [1, 8, 7, 2, 21, 15]
 l2 = [3, 24, 85]
 # l1.index(8)
+# l1.insert(1, 4) # Inserts 4 at the index(1).
 # l1.sort()
 # l1.reverse()
 l1.remove(15)

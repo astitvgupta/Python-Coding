@@ -13,7 +13,7 @@ class Employee:
         amount = random.randint(500, 5000)
         return amount
     
-    @staticmethod
+    @staticmethod #  Decorator used to mark a function that does not use the self-parameter.
     def greet():
         print("Hellow, I'm creating a static method.")
 

@@ -28,3 +28,4 @@ print(unique, type(unique)) # Sets are unordered, unindexed and immutable.
 print(len(unique))
 print(unique.union({"Apple", 82}))
 print(unique.intersection({57, 78, "Zebra"}))
+print(set("HackerRank"))
